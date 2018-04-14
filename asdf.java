@@ -1,6 +1,6 @@
 public static void main
 {
-int a=150;
-int b=46:
-int c=140
+int a=12;
+int b=10:
+int c=10
 }
